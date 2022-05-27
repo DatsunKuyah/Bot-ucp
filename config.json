@@ -1,0 +1,13 @@
+{
+    "clientId": "971585878952656907",
+    "guildId": "971781831563292773",
+    "token": "OTcxNTg1ODc4OTUyNjU2OTA3.GpPG6m.i5g2m3TqQoH-4BAdCz4vFOFk1hZpUCv2XMMCSE", 
+    "channelIdJoin": "979399110723502151", 
+    "channelIdLeave": "979399182156718131", 
+    "mysql": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "ulrp"
+    }
+}
